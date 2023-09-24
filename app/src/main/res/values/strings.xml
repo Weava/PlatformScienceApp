@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">psInterviewApp</string>
+    <string name="error_message">Failed retrieving shipping manifest</string>
+</resources>
