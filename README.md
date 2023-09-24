@@ -6,6 +6,11 @@ based on specific criteria.
 
 ### Videos
 
+[Screen_recording_20230924_153026.webm](https://github.com/Weava/PlatformScienceApp/assets/2576902/4efe2198-1b3c-4ed7-b6e7-85c60496be41)
+
+[Screen_recording_20230924_152916.webm](https://github.com/Weava/PlatformScienceApp/assets/2576902/1b2f3d16-c489-4146-a562-e7fbb905babe)
+
+
 ### Explanation of documentation
 Very little code has documentation as source code is accessible to all using the app.
 What is documented is complicated logic that other developers may not understand at a glance
